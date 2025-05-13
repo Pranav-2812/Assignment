@@ -8,7 +8,7 @@ import sqlite3
 import json
 
 app = Flask(__name__)
-CORS(app, resources={r"/generate": {"origins": "http://localhost:5173"}})
+CORS(app, resources={r"/generate": {"origins": "https://assignment-gb8w.onrender.com"}})
 
 
 def init_db():
