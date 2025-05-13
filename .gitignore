@@ -1,0 +1,14 @@
+app1.py
+app2.py
+app3.py
+emojiEnv
+appp.py
+debu
+emoji_renderer.py
+word_to_emoji_map.py
+.env 
+debug_final_rgba_canvas.png
+debug_resized_emojis/
+debug_emoji_downloads/
+__pycache__/
+FontPath/
